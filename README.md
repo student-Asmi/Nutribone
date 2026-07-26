@@ -68,3 +68,4 @@ npm start
 cd client
 npm install
 npm start
+<img width="768" height="707" alt="image" src="https://github.com/user-attachments/assets/b0d68caf-9101-4a79-8af0-e400d2cb642b" />
